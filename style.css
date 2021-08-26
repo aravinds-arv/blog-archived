@@ -3,6 +3,72 @@
     width: 100%;
 } */
 
+.navbar{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand>img{
+    width: 18%;
+    height: auto;
+    margin: 1% auto;
+}
+
+.navbar-nav{
+    margin: -1% -2%;
+}
+
+.navflex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbtn{
+    margin: 8px 8px;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 28px;
+    height: 3px;
+    border-radius: 15%;
+    background-color: rgb(255, 255, 255);
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+  
+  /* Rotate first bar */
+  .change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+    transform: rotate(-45deg) translate(-4px, 5px) ;
+  }
+  
+  /* Fade out the second bar */
+  .change .bar2 {
+    opacity: 0;
+  }
+  
+  /* Rotate last bar */
+  .change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+    transform: rotate(45deg) translate(-7px, -9px) ;
+  }
+
+@media (max-width: 450px) {
+    .navbar-brand>img{
+        width: 42%;
+        height: auto;
+    }
+  }
+
+@media (max-width: 600px) {
+    #nav{
+        background-color: rgba(17, 17, 17, 0.774);
+        padding: 20px;
+        margin: 10px;
+        border-radius: 5%;
+    }
+  }
+
 .nav-link {
     font-family: 'Anonymous Pro', monospace;
     color: greenyellow;
@@ -59,7 +125,7 @@
 
 #particles-js {
     width: 100%;
-    height: 100%;
+    height: 130%;
     position: absolute;
     z-index: -10;
     top: 0;
@@ -113,7 +179,7 @@
     width: 100%;
     margin-top: 100vh;
     background-color: rgb(87, 87, 87);
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .page2{
@@ -123,8 +189,7 @@
 
 .termynal{
     margin-top: 26vh;
-    margin-left: 52vw;
-    position: relative
+    margin-left: 53%;
 }
 
 .about-me{
@@ -132,13 +197,15 @@
     color: rgb(233, 233, 233);
     display: flex;
     width: 30vw;
-    margin: 80vh 12vw;
+    margin-top: 80vh;
+    margin-left: -78%;
     position: absolute;
     flex-direction: column;
 }
 
 .pic{
-    margin: 26vh 12vw;
+    margin-top: 26vh;
+    margin-left: 22%;
 }
 
 .page3{
@@ -147,7 +214,11 @@
     width: 100%;
     margin-top: 230vh;
     background-color: rgb(63, 62, 62);
-    overflow-x: hidden;
+    overflow: hidden;
+}
+
+.tags{
+    margin-top: 20vh !important;
 }
 
 .folder 
@@ -157,7 +228,7 @@
   color: #86c427;
   position: absolute;
   margin-top: -85vh;
-  margin-left: 48vw;
+  margin-left: 49vw;
 }
 
 footer{
@@ -239,11 +310,15 @@ footer{
     border: 1px solid rgb(0, 0, 0);
 }
 
+.footerlink{
+    margin-top: -20%;
+}
+
 .exp{
     transform:rotate(-90deg);
     color: white;
     position: absolute;
-    margin-top: 57vh;
+    margin-top: 55vh;
     font-family: monospace;
     font-size: 15px;
     margin-right: -1vw;
@@ -253,10 +328,11 @@ footer{
     transform:rotate(90deg) ;
     color: white;
     position: absolute;
-    margin-top: 57vh;
+    margin-top: 55vh;
     margin-left: 92.65vw;
     font-family: monospace;
     font-size: 15px;
+    width: max-content;
 }
 
 .abt{
@@ -267,6 +343,7 @@ footer{
     font-family: monospace;
     font-size: 15px;
     margin-right: -1vw;
+    width: max-content;
 }
 
 .skll{
@@ -277,4 +354,127 @@ footer{
     margin-left: 94vw;
     font-family: monospace;
     font-size: 15px;
+}
+
+@media all and (max-width: 1200px) {
+    .termynal, .abt, .skll {
+      display: none;
+    }
+    
+    .about-me{
+        margin-top: 35vh;
+        margin-left: 15%;
+    }
+    
+    .about{
+        height: 108vh;
+    }
+
+    .page3{
+        margin-top: 208vh;
+    }
+
+    footer{
+        margin-top: 318vh;
+    }
+
+    .tags{
+        margin-top: 13vh !important;
+    }
+
+    .folder{
+        margin-top: -85vh;
+        margin-left: 42vw;
+        font-size: 1.1em;
+    }
+
+    .exp{
+        margin-top: 56vh;
+    }
+
+    .work{
+        margin-top: 56vh;
+    }
+}
+
+@media all and (max-width: 540px) {
+
+    .pic{
+        font-size: 5px !important;
+        line-height: 7px !important;
+        margin-top: 14vh;
+        margin-left: 1.5%;
+    }
+
+    .about-me{
+        margin-top: 60vh;
+        font-size: 15px;
+        margin-left: 5%;
+    }
+
+    .about-me>p{
+        width: 280%;
+    }
+
+    .about{
+        margin-top: 112vh;
+        height: 125vh;
+    }
+
+    .page3{
+        margin-top: 227vh;
+        height: 130vh;
+    }
+
+    footer{
+        margin-top: 350vh;
+        height: 18vh;
+    }
+
+    .exp{
+        display: none;
+    }
+    
+    .work{
+        display: none;
+    }
+
+    .folder{
+        margin-top: -15vh;
+        margin-left: -16.5vw;
+        font-size: 0.87em;
+    }
+
+    .tags{
+        width: 370px !important;
+        height: 370px !important;
+        margin-top: 15vh !important;
+    }
+
+    .colortxt{
+        display: none;
+    }
+
+    .footericon>img{
+        height: 47px !important;
+        margin-left: 29% !important;
+        margin-top: -7% !important;
+        margin-bottom: 7%;
+    }
+
+    #main-body{
+        margin-top: 35vh;
+    }
+
+    #main-body>h1{
+        font-size: 44px;
+    }
+
+    #typing{
+        font-size: 25px;
+    }
+
+    .btn{
+        margin-top: 51vh;
+    }
 }
