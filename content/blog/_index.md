@@ -1,0 +1,4 @@
+---
+title: Writing
+url: writing
+---

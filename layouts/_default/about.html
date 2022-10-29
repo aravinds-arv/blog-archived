@@ -1,0 +1,48 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">
+      {{ .Title }}
+      {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+  </header>
+  {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden }}
+  {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+
+  <fieldset style="border-radius: 8px; border-color: #9b9c9d;">
+    <legend>
+      <h4 style="color: #dadadb;">Contact Me</h4>
+    </legend>
+      <p style="color: #a7a8a9;">You can reach me out at <span><a href="mailto:aravinds.arv@proton.me">aravinds.arv@proton.me</a></span></p>
+  </fieldset>
+  </div>
+  {{- end }}
+
+  <footer class="post-footer">
+    {{- if .Params.tags }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms "tags") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+  </footer>
+</article>
+
+{{- end }}{{/* end main */}}

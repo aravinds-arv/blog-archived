@@ -1,0 +1,154 @@
+baseURL: "https://examplesite.com/"
+title: Aravind S
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Aravind S
+    description: "Aravind S"
+    keywords: [Blog, Portfolio, PaperMod]
+    author: Me
+    # author: ["Me", "You"] # multiple authors
+    images: ["IMG.jpg"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: dark #light
+    disableThemeToggle: true
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "Symbol.png"
+        favicon16x16: "Symbol.png"
+        favicon32x32: "Symbol.png"
+        apple_touch_icon: "Symbol.png"
+        safari_pinned_tab: "Symbol.png"
+
+    label:
+        icon: "logo.png"
+        iconHeight: 32
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/aravinds-arv"
+        - name: gitlab
+          url: "https://gitlab.com/aravinds-arv"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/16720542/aravinds-arv"
+        - name: mastodon
+          url: "https://mstdn.social/@aravinds_arv"
+        - name: twitter
+          url: "https://twitter.com/aravinds_arv"
+        - name: linkedin
+          url: "https://linkedin.com/in/aravinds-arv"
+        - name: instagram
+          url: "https://instagram.com/aravinds.arv"
+        - name: rss
+          url: "https://instagram.com/aravinds.arv"
+
+    homeInfoParams:
+        Title: Aravind S
+        Content: > 
+              Engineering undergrad, self taught programmer, graphic designer, free & open source enthusiast and forever a learner. 
+              This is my home on the internet, it was built on an attempt to document my journey as a _**technophile**_ and _**noob coder**_.
+              I hope it still serves the purpose  ¯\\\_(ツ)\_/¯
+
+    analytics:
+        google:
+            SiteVerificationTag: "XYZabc"
+        bing:
+            SiteVerificationTag: "XYZabc"
+        yandex:
+            SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/<path_to_repo>/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: blog
+          name: Writing
+          url: ["/writing/", "/"]
+          weight: 10
+        - identifier: scrapbook
+          name: Scrapbook
+          url: /scrapbook/
+          weight: 20
+        - identifier: archives
+          name: Archive
+          url: /archives/
+          weight: 30
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 40
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 50
+        - identifier: About
+          name: About
+          url: /About/
+          weight: 60
+        - identifier: projects
+          name: Projects
+          url: /projects/
+          weight: 70
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
