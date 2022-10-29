@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>discord.py on Aravind S</title>
-    <link>https://examplesite.com/tags/discord.py/</link>
+    <link>https://aravinds-arv.github.io/tags/discord.py/</link>
     <description>Recent content in discord.py on Aravind S</description>
     <image>
-      <url>https://examplesite.com/IMG.jpg</url>
-      <link>https://examplesite.com/IMG.jpg</link>
+      <url>https://aravinds-arv.github.io/IMG.jpg</url>
+      <link>https://aravinds-arv.github.io/IMG.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/discord.py/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aravinds-arv.github.io/tags/discord.py/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bot says Hi</title>
-      <link>https://examplesite.com/scrapbook/discordpytemp/</link>
+      <link>https://aravinds-arv.github.io/scrapbook/discordpytemp/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/scrapbook/discordpytemp/</guid>
+      <guid>https://aravinds-arv.github.io/scrapbook/discordpytemp/</guid>
       <description>Get started with build a bot in python using this template!</description>
     </item>
     

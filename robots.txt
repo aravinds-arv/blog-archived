@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://examplesite.com/sitemap.xml
+Sitemap: https://aravinds-arv.github.io/sitemap.xml
