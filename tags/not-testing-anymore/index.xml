@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Not testing anymore on Aravind S</title>
+    <link>https://examplesite.com/tags/not-testing-anymore/</link>
+    <description>Recent content in Not testing anymore on Aravind S</description>
+    <image>
+      <url>https://examplesite.com/IMG.jpg</url>
+      <link>https://examplesite.com/IMG.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/not-testing-anymore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Baymax?</title>
+      <link>https://examplesite.com/blog/baymax/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/blog/baymax/</guid>
+      <description>After a lot of procastination I&amp;#39;ve decided to write (type!?) down about my experience building a project that has some real world usecase</description>
+    </item>
+    
+  </channel>
+</rss>
