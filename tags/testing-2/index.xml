@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Testing 2 on Aravind S</title>
-    <link>https://aravinds-arv.github.io/tags/testing-2/</link>
+    <link>https://arv.codes/tags/testing-2/</link>
     <description>Recent content in Testing 2 on Aravind S</description>
     <image>
-      <url>https://aravinds-arv.github.io/IMG.jpg</url>
-      <link>https://aravinds-arv.github.io/IMG.jpg</link>
+      <url>https://arv.codes/twitter-banner.jpg</url>
+      <link>https://arv.codes/twitter-banner.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aravinds-arv.github.io/tags/testing-2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arv.codes/tags/testing-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is yet another test blog</title>
-      <link>https://aravinds-arv.github.io/blog/test2/</link>
+      <link>https://arv.codes/blog/test2/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aravinds-arv.github.io/blog/test2/</guid>
+      <guid>https://arv.codes/blog/test2/</guid>
       <description>Just a placeholder, will remove once there is enough content to fill the screen</description>
     </item>
     
