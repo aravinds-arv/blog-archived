@@ -19,7 +19,7 @@ params:
     title: Aravind S
     description: "Aravind S | Developer Portfolio | Tech Lead TinkerHub NSSCE"
     keywords: [Aravind S, aravinds-arv, aravinds.arv, developer, coder, TinkerHub]
-    author: Me
+    author: Aravind S
     # author: ["Me", "You"] # multiple authors
     images: ["twitter-banner.jpg"]
     DateFormat: "January 2, 2006"
@@ -30,7 +30,7 @@ params:
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: false
+    ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
@@ -91,7 +91,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
+        URL: "https://github.com/aravinds-arv/aravinds-arv.github.io/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
