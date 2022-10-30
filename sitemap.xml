@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://arv.codes/</loc>
-    <lastmod>2022-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arv.codes/tags/best-practices/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arv.codes/tags/git/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arv.codes/tags/github/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arv.codes/blog/git-best-practices/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arv.codes/tags/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arv.codes/writing/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arv.codes/tags/baymax/</loc>
     <lastmod>2022-10-29T00:00:00+00:00</lastmod>
@@ -14,13 +32,7 @@
     <loc>https://arv.codes/tags/not-testing-anymore/</loc>
     <lastmod>2022-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arv.codes/tags/</loc>
-    <lastmod>2022-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://arv.codes/blog/baymax/</loc>
-    <lastmod>2022-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://arv.codes/writing/</loc>
+    <loc>https://arv.codes/blog/why-baymax/</loc>
     <lastmod>2022-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arv.codes/scrapbook/discordpytemp/</loc>
@@ -36,18 +48,18 @@
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arv.codes/tags/testing-2/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arv.codes/blog/test2/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://arv.codes/tags/notes/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arv.codes/tags/testing/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arv.codes/blog/test/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arv.codes/tags/notes/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arv.codes/scrapbook/note1/</loc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>best practices on Aravind S</title>
+    <link>https://arv.codes/tags/best-practices/</link>
+    <description>Recent content in best practices on Aravind S</description>
+    <image>
+      <url>https://arv.codes/twitter-banner.jpg</url>
+      <link>https://arv.codes/twitter-banner.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arv.codes/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I don&#39;t git it?</title>
+      <link>https://arv.codes/blog/git-best-practices/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arv.codes/blog/git-best-practices/</guid>
+      <description>Yet another article with a new spin on how to best use Git (and Github :D)</description>
+    </item>
+    
+  </channel>
+</rss>

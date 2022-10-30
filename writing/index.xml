@@ -9,20 +9,29 @@
       <link>https://arv.codes/twitter-banner.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arv.codes/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arv.codes/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I don&#39;t git it?</title>
+      <link>https://arv.codes/blog/git-best-practices/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arv.codes/blog/git-best-practices/</guid>
+      <description>Yet another article with a new spin on how to best use Git (and Github :D)</description>
+    </item>
+    
     <item>
       <title>Why Baymax?</title>
-      <link>https://arv.codes/blog/baymax/</link>
+      <link>https://arv.codes/blog/why-baymax/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://arv.codes/blog/baymax/</guid>
+      <guid>https://arv.codes/blog/why-baymax/</guid>
       <description>After a lot of procastination I&amp;#39;ve decided to write (type!?) down about my experience building a project that has some real world usecase</description>
     </item>
     
     <item>
       <title>This is yet another test blog</title>
       <link>https://arv.codes/blog/test2/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://arv.codes/blog/test2/</guid>
       <description>Just a placeholder, will remove once there is enough content to fill the screen</description>
@@ -31,7 +40,7 @@
     <item>
       <title>This is just a test blog</title>
       <link>https://arv.codes/blog/test/</link>
-      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://arv.codes/blog/test/</guid>
       <description>Just a placeholder, will remove once there is enough content to fill the screen</description>
