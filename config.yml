@@ -1,4 +1,4 @@
-baseURL: "https://aravinds-arv.github.io/"
+baseURL: "https://arv.codes/"
 title: Aravind S
 paginate: 5
 theme: PaperMod
@@ -17,11 +17,11 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Aravind S
-    description: "Aravind S"
-    keywords: [Blog, Portfolio, PaperMod]
+    description: "Aravind S | Developer Portfolio | Tech Lead TinkerHub NSSCE"
+    keywords: [Aravind S, aravinds-arv, aravinds.arv, developer, coder, TinkerHub]
     author: Me
     # author: ["Me", "You"] # multiple authors
-    images: ["IMG.jpg"]
+    images: ["twitter-banner.jpg"]
     DateFormat: "January 2, 2006"
     defaultTheme: dark #light
     disableThemeToggle: true
@@ -68,7 +68,7 @@ params:
         - name: instagram
           url: "https://instagram.com/aravinds.arv"
         - name: rss
-          url: "https://instagram.com/aravinds.arv"
+          url: "https://arv.codes/index.xml"
 
     homeInfoParams:
         Title: Aravind S
@@ -77,13 +77,13 @@ params:
               This is my home on the internet, it was built on an attempt to document my journey as a _**technophile**_ and _**noob coder**_.
               I hope it still serves the purpose  ¯\\\_(ツ)\_/¯
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
-        bing:
-            SiteVerificationTag: "XYZabc"
-        yandex:
-            SiteVerificationTag: "XYZabc"
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+    #     bing:
+    #         SiteVerificationTag: "XYZabc"
+    #     yandex:
+    #         SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
