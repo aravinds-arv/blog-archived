@@ -5,6 +5,7 @@ description: After a lot of procastination I've decided to write (type!?) down a
 date: 2022-10-29
 tags: ["Not testing anymore", "My first project", "Baymax"]
 author: "Aravind S"
+url: "/blog/why-baymax/"
 ---
 
 ### A bit of context

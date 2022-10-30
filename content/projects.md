@@ -19,7 +19,7 @@ Features:-
 
 ## PiXiPi
 **GITHUB**: https://github.com/aravinds-arv/PixiPi\
-**DEMO**: https://github.com/aravinds-arv/PixiPi
+**DEMO**: https://github.com/aravinds-arv/PixiPi#link-to-product-walkthrough
 
 How it works?
 - The command line interface is powered by Typer library in python
