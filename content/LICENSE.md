@@ -7,6 +7,7 @@ ShowReadingTime: false
 ShowPostNavLinks: false
 ShowBreadCrumbs: false
 disableShare: true
+comments: false
 ---
 
 Last updated: October 30, 2022
