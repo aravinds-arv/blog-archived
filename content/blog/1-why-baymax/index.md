@@ -3,7 +3,7 @@ title: "Why Baymax?"
 summary: My first Open Source project that went to production
 description: After a lot of procastination I've decided to write (type!?) down about my experience building a project that has some real world usecase
 date: 2022-10-29
-tags: ["Not testing anymore", "My first project", "Baymax"]
+tags: ["first-project", "baymax","discord-py"]
 author: "Aravind S"
 url: "/blog/why-baymax/"
 ---

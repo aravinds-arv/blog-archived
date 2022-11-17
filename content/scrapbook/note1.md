@@ -3,7 +3,7 @@ title: "This is just a test note"
 summary: Notes for testing
 description: Just a placeholder, will remove once there is enough content to fill the screen
 date: 2022-01-27
-tags: ["Notes"]
+tags: ["notes"]
 author: "Aravind S"
 ---
 

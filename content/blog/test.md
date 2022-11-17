@@ -3,7 +3,7 @@ title: "This is just a test blog"
 summary: Trying out new things
 description: Just a placeholder, will remove once there is enough content to fill the screen
 date: 2022-10-27
-tags: ["Testing"]
+tags: ["testing"]
 author: "Aravind S"
 ---
 

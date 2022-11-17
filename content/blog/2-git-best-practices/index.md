@@ -3,7 +3,7 @@ title: "I don't git it?"
 summary: 10 best git practices you are not following yet (opiniated!)
 description: Yet another article with a new spin on how to best use Git (and Github :D)
 date: 2022-10-30
-tags: ["best practices", "git", "GitHub"]
+tags: ["best-practices", "git", "github"]
 author: "Aravind S"
 url: "/blog/git-best-practices/"
 ---

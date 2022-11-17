@@ -1,15 +1,18 @@
 ---
 title: "Bot says Hi"
 summary: A discord.py bot template
-description: Get started with build a bot in python using this template!
+description: Get started with building a discord bot in python using this template!
 date: 2022-10-28
-tags: ["Snippets", "discord.py"]
+tags: ["snippets", "discord.py"]
 author: "Aravind S"
+url: "/scrapbook/discordpy-template"
 ---
 
 ### Snippet
 
-```
+Try saying `!hello`
+
+```python
 import os
 import discord
 import requests
@@ -24,8 +27,8 @@ DISCORD_TOKEN = os.getenv('TOKEN')
 client = commands.Bot(command_prefix='!', intents=intents)
 
 @client.command()
-async def hi(ctx):
-    await ctx.send('bot says hi!!')
+async def hello(ctx):
+    await ctx.send(f'Hi **{ctx.message.author}**, thankyou for saying hello to me')
 
 @client.command()
 async def inspire(ctx):

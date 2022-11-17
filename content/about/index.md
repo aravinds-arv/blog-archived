@@ -9,3 +9,4 @@ If you already visited the home page, you presumably read and acquired sufficien
 ### Other useful stuff
 1. My GPG Key (in case you want to send me an encrypted message): https://github.com/aravinds-arv.gpg
 2. GPG Key ID: 45C6D0F31C7A42D7
+3. Useful Links: [aravinds.bio.link](https://aravinds.bio.link)
