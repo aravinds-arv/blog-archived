@@ -9,9 +9,54 @@
       <link>https://arv.codes/twitter-banner.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arv.codes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arv.codes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>best practices</title>
+      <title>crawling</title>
+      <link>https://arv.codes/tags/crawling/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arv.codes/tags/crawling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scripts</title>
+      <link>https://arv.codes/tags/scripts/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arv.codes/tags/scripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-scraping</title>
+      <link>https://arv.codes/tags/web-scraping/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arv.codes/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>https://arv.codes/tags/automation/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arv.codes/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whatsapp</title>
+      <link>https://arv.codes/tags/whatsapp/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arv.codes/tags/whatsapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>best-practices</title>
       <link>https://arv.codes/tags/best-practices/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -29,7 +74,7 @@
     </item>
     
     <item>
-      <title>GitHub</title>
+      <title>github</title>
       <link>https://arv.codes/tags/github/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -38,7 +83,7 @@
     </item>
     
     <item>
-      <title>Baymax</title>
+      <title>baymax</title>
       <link>https://arv.codes/tags/baymax/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -47,20 +92,20 @@
     </item>
     
     <item>
-      <title>My first project</title>
-      <link>https://arv.codes/tags/my-first-project/</link>
+      <title>discord-py</title>
+      <link>https://arv.codes/tags/discord-py/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://arv.codes/tags/my-first-project/</guid>
+      <guid>https://arv.codes/tags/discord-py/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Not testing anymore</title>
-      <link>https://arv.codes/tags/not-testing-anymore/</link>
+      <title>first-project</title>
+      <link>https://arv.codes/tags/first-project/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://arv.codes/tags/not-testing-anymore/</guid>
+      <guid>https://arv.codes/tags/first-project/</guid>
       <description></description>
     </item>
     
@@ -74,7 +119,7 @@
     </item>
     
     <item>
-      <title>Snippets</title>
+      <title>snippets</title>
       <link>https://arv.codes/tags/snippets/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -83,25 +128,16 @@
     </item>
     
     <item>
-      <title>Testing 2</title>
-      <link>https://arv.codes/tags/testing-2/</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://arv.codes/tags/testing-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing</title>
+      <title>testing</title>
       <link>https://arv.codes/tags/testing/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://arv.codes/tags/testing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Notes</title>
+      <title>notes</title>
       <link>https://arv.codes/tags/notes/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
