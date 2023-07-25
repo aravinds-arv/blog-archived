@@ -109,7 +109,7 @@ menu:
     main:
         - identifier: blog
           name: Writing
-          url: ["/writing/", "/"]
+          url: /
           weight: 10
         - identifier: scrapbook
           name: Scrapbook
